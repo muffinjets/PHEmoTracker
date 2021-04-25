@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Overworld Checks",
+        "color": "#00CC00",
+        "children": [
+            {
+                "name": "Test Location 1",
+                "map_locations": [
+                    {
+                        "map": "worldmap",
+                        "x": 256,
+                        "y": 190
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Test Location 1",
+                        "access_rules": [""],
+                        "item_count": 1,
+                        "capture_item": true
+                    }
+                ]
+            }
+        ]
+    }
+]

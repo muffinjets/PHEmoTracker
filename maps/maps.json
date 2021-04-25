@@ -1,0 +1,8 @@
+[
+    {
+        "name": "worldmap",
+        "img": "images/maps/Ocean.png",
+        "location_size": 20,
+        "location_border_thickness": 3
+    }
+]

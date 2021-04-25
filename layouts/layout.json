@@ -1,0 +1,184 @@
+{
+    "settings_grid": {
+        "type": "array",
+        "margin": "5",
+        "content": [
+            {
+                "type": "group",
+                "header": "Settings",
+                "content": [
+                    {
+                        "type": "item",
+                        "margin": "0, 0, 0, 0",
+                        "item": "bombs"
+                    }
+                ]
+            }
+        ]
+    },
+    "tracker_default": {
+        "type": "container",
+        "background": "#877373",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "h_alignment": "center",
+                    "margin": "0, 0, 0, 0",
+                    "content": [
+                        {
+                            "type": "group",
+                            "dock": "top",
+                            "content": [
+                                {
+                                    "type": "itemgrid",
+                                    "h_alignment": "center",
+                                    "item_margin": "4,4",
+                                    "rows": [
+                                        ["boomerang", "bombs", "bow", "bombchus", "grapplinghook", "hammer", "shovel"]
+                                    ]
+                                },
+                                {
+                                    "type": "canvas",
+                                    "h_alignment": "center",
+                                    "v_alignment": "top",
+                                    "height": 190,
+                                    "width": 290,
+                                    "content": [
+                                        {
+                                            "type": "item",
+                                            "item": "phantomhourglass",
+                                            "width": 55,
+                                            "height": 80,
+                                            "canvas_top": 60,
+                                            "canvas_left": 0
+                                        },
+                                        {
+                                            "type": "item",
+                                            "item": "sword_courage",
+                                            "width": 48,
+                                            "height": 48,
+                                            "canvas_left": 60,
+                                            "canvas_top": 69
+                                        },
+                                        {
+                                            "type": "item",
+                                            "item": "shield",
+                                            "width": 48,
+                                            "height": 48,
+                                            "canvas_left": 110,
+                                            "canvas_top": 69
+                                        },
+                                        {
+                                            "type": "item",
+                                            "item": "spiritofcourage",
+                                            "width": 30,
+                                            "height": 30,
+                                            "canvas_left": 175,
+                                            "canvas_top": 76
+                                        },
+                                        {
+                                            "type": "item",
+                                            "item": "spiritofpower",
+                                            "width": 30,
+                                            "height": 30,
+                                            "canvas_left": 160,
+                                            "canvas_top": 98
+                                        },
+                                        {
+                                            "type": "item",
+                                            "item": "spiritofwisdom",
+                                            "width": 30,
+                                            "height": 30,
+                                            "canvas_left": 190,
+                                            "canvas_top": 98
+                                        },
+                                        {
+                                            "type": "item",
+                                            "item": "powergem",
+                                            "width": 30,
+                                            "height": 30,
+                                            "canvas_left": 225,
+                                            "canvas_top": 93
+                                        },
+                                        {
+                                            "type": "item",
+                                            "item": "couragegem",
+                                            "width": 30,
+                                            "height": 30,
+                                            "canvas_left": 240,
+                                            "canvas_top": 71
+                                        },
+                                        {
+                                            "type": "item",
+                                            "item": "wisdomgem",
+                                            "width": 30,
+                                            "height": 30,
+                                            "canvas_left": 255,
+                                            "canvas_top": 93
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "itemgrid",
+                                    "h_alignment": "center",
+                                    "item_margin": "5,6",
+                                    "rows": [
+                                        [""],
+                                        [""],
+                                        [""],
+                                        ["cycloneslate", "fishingrod_bigcatch", "treasurecharts", "jolenesletter", "crimsonine", "aquanine", "azurine"],
+                                        ["sandofhours","salvagearm","sunkey", "ghostkey", "kingskey", "regalnecklace"]
+                                    ]
+                                }
+                            ],
+                            "header": "Items",
+                            "header_content": {
+                                "type": "button_popup",
+                                "style": "settings",
+                                "popup_background": "#502121",
+                                "layout": "settings_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Pinned Locations",
+                            "dock": "bottom",
+                            "content": {
+                                "type": "recentpins",
+                                "style": "wrap",
+                                "h_alignment": "stretch",
+                                "v_alignment": "stretch",
+                                "compact": false
+                            }
+                        }
+                    ]
+                },
+                    {
+                        "type": "dock",
+                        "v_alignment":"stretch",
+                        "margin": "0,0,0,0",
+                        "content": [
+                            {
+                                "type": "tabbed",
+                                "dock": "top",
+                                "tabs": [
+                                    {
+                                        "title": "Overworld",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": ["worldmap"]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                
+            ]
+        }
+    }
+}

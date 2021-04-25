@@ -1,0 +1,16 @@
+{
+    "name": "Phantom Hourglass Randomizer Tracker",
+    "game_name": "Phantom Hourglass",
+    "package_version": "1.0.0",
+    "package_uid": "ph_maptracker_muffinjets",
+    "author": "MuffinJets",
+    "platform": "DS",
+    "variants": {
+        "simple": {
+            "display_name": "Map Tracker"
+        },
+        "items_only": {
+            "display_name": "Items Only"
+        }
+    }
+}

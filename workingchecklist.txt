@@ -1,0 +1,459 @@
+Mail
+    From Postmaster/Signature - Nothing
+    From Astrid - Nothing
+    From Eddo - Nothing
+    From Jolene - Jolene's Letter
+    From Romanos - Ship Part
+    From Linebeck - Ship Part
+    From Old Wayfarer - Ship Part
+    From Beedle, Silver Membership - Freebie Card
+    From Salvatore - Wisdom Gem
+    From Aroo - Wisdom Gem
+    From Gongoron - Courage Gem
+    From Jolene - Nothing
+    From King Mutoh - Power Gem
+    From Beedle, Gold Membership - Compliment Card
+
+Beedle
+    First Item Slot - Progressive Bomb Bag
+    First Item Slot 2 - Ship Part
+    First Item Slot 3 - Ship Part
+    First Item Slot 4 - Ship Part
+    First Item Slot 5 - Ship Part
+    Third Item Slot - Wisdom Gem
+    Fourth Item Slot - Ship Part
+    Fourth Item Slot 2 - Ship Part
+    Fourth Item Slot 3 - Ship Part
+    Fourth Item Slot 4 - Ship Part
+    Fifth Item Slot - Shuffled Treasure
+    Fifth Item Slot 2 - Shuffled Treasure
+    Fifth Item Slot 3 - Shuffled Treasure
+
+Masked Beedle
+    First Item Slot - Heart Container
+    Third Item Slot - Courage Gem
+
+Jolene
+    First encounter - 5 Rupees
+    Second encounter - 20 Rupees
+    Third encounter - 100 Rupees
+    Fourth encounter - 200 Rupees
+    Fifth encounter+ - Nothing
+    Final encounter - Nothing (Zauz)
+
+Boarded by Pirates
+    First Time - Courage Gem
+    Second Time - 5 Rupees
+    Third Time - 20 Rupees
+    Fourth Time - 100 Rupees
+    Fifth Time - 5 Rupees
+
+SW Sea
+    Treasure Maps
+        5x Ship Parts
+        2x Sand of Hours
+    Nyave - Shuffled Treasure
+    Emblem of Courage - Sun Key
+NW Sea
+    Treasure Maps
+        5x Ship Parts
+        2x Sand of Hours
+        1x Shuffled Treasure
+    Nyeve
+        First Encounter - Shuffled Treasure
+        Half a Hero - Shuffled Treasure
+        Two-Thirds a Hero - Shuffled Treasure
+        100 hits - Heart Container
+        101-199 hits
+        200+ hits
+        Hero's New Clothes - Telescope
+SE Sea
+    Treasure Maps
+        7x Ship Parts
+        1x Sand of Hours
+    Ho Ho Tribe
+        Telescope - Guard Notebook
+    Old Wayfarer
+        Wood Heart - "Thank You"
+
+NE Sea
+    Treasure Maps
+        5x Ship Parts
+        2x Shuffled Treasure
+    The Man of Smiles - Hero's New Clothes
+    The Man of Smiles - Treasure Map
+
+Mercay Island
+    Oshus's Cave - Sword
+    Dig Spot outside Oshus's Cave - Treasure Map
+    Phantom Sword - Phantom Sword
+    Help Move the Rocks - 1 Rupee
+    Bonk the North Tree - 100 Rupees
+    Connector Cave
+        Front chest - Small Key
+        Right chest - 20 Rupees
+        Ceiling drop - Small Key
+        Rat Key - Small Key
+    Shipyard Chest - Ship Part
+    Cucco Glide Chest - Shuffled Treasure
+    Shop
+        3rd slot - Shield
+        4th slot - Shuffled Treasure
+        5th slot - Power Gem
+        5th slot again? - Progressive Quiver
+    Bombable Cave
+        Chest - Power Gem
+        North of Town Dual Chests - 100 Rupees
+        North of Town Dual Chests - Ship Part
+
+Temple of the Ocean King - First Trip
+    1F
+        Nothing Chest - Small Key (?)
+        Linebeck's Key - Small Key (?)
+        SW Sea Chart Chest - SW Sea Chart
+
+Temple of the Ocean King - Second Trip (Boomerang)
+    Phantom Hourglass - Phantom Hourglass
+    B1
+        Respawning Freestanding Key
+    B2
+        Respawning Freestanding Key (1 Key Required)
+    B3
+        Top-Left Corner Chest (2 Keys required) - Force Gem 
+        Bottom-Right Corner Chest (2 Keys required) - Force Gem
+        Respawning Phantom Key (2 Keys required)
+        Bottom-Left Corner Chest (2 Keys required) - Force Gem
+        NW Sea Chart Chest - NW Sea Chart
+
+Temple of the Ocean King - Third Trip (Bombs + Shovel)
+    B4
+        Kill all Phantom Eyes - Power Gem
+        Freestanding Key (2 Keys required) - Small Key
+    B5
+        Crystal Switch - Red Potion
+
+Temple of the Ocean King - Fourth Trip (Bow)
+    B3
+        Shoot the Eye - Power Gem
+    B6
+        Shoot the Eye - Treasure Map
+    B7
+        Top-Center Chest - Round Crystal
+    B9
+        Left Staircase Chest - Triangle Crystal
+    B8
+        Triangle Gem Slot - Courage Gem
+    B9
+        Kill all Wizzrobes - Wisdom Gem
+        SW Sea Chart Chest - SW Sea Chart
+    B10
+        Phantom Key - Small Key
+        Kill all Phantom Eyes - Shuffled Treasure
+    B12
+        Left Chest - Force Gem 
+        Right Chest - Force Gem
+        Kill all Phantom Eyes - Ship Part
+    B13
+        NE Sea Chart Chest - NE Sea Chart
+
+    
+
+    
+
+Isle of Ember
+    North Island Chest - Courage Gem
+    Summit Chest - 20 Rupees
+    Gift from Astrid - Power Gem
+
+Temple of Fire (REORDER CHESTS)
+    1F
+        Keese Chest (0 Keys required) - Small Key
+        Trapped Floor Chest (1 Key required) - 20 Rupees
+
+    2F 
+        Slime Combat (1 Key required) - Boomerang
+        Fire Keese (1 Key required) - 20 Rupees
+        Rat Key (1 Key required) - Small Key
+    
+    3F
+        Crystal Switches (2 Keys required) - Small Key
+        Boss Key Chest (3 Keys required) - Boss Key
+    Boss
+        Blaaz, Master of Fire
+            Spirit of Power
+            Heart Container
+    
+    Totals:
+        3 Small Keys
+        4 checks (including Spirit)
+        9 keysanity checks (including Spirit)
+
+Cannon Island
+    Chest near Beehives - Treasure Map
+    Cave Bomb Block - Power Gem
+    On Southern Ledge - 20 Rupees
+    Bomb Garden Tree - 200 Rupees
+
+Molida Island
+    In the House - Shuffled Treasure
+    Dig Spot under Tree - 100 Rupees
+    Dig Spot under Eastern Island Tree (Grappling Hook required) - Treasure Map
+    Shooting Gallery
+        1700+ - Progressive Quiver
+        2000+ - Heart Container
+    Shop
+        5th Item Slot - Heart Container
+    Cave
+        Journal Room - Shovel
+        Dig Spot in Journal Room - 100 Rupees
+        Dig Spot in Zora Battlefield - 100 Rupees 
+        Hideaway Chest - Treasure Map
+        Dig Spot past the Sun Door - Wisdom Gem
+        Grapple Chest - Power Gem
+
+    Left of Cave Exit - Shuffled Treasure
+    Grapple Chest Near the Temple - Courage Gem
+
+Temple of Courage
+    1F
+        Left Bombable Chest - Shuffled Treasure
+        Center Ledge - Small Key
+        Between the Tablets (1 Key Required) - Ship Part
+        Between the Tablets (1 Key Required) - Power Gem
+    B1
+        Platform Chest (1 Key required) - 100 Rupees
+    1F
+        Pols Voice Key (1 Key required) - Small Key
+    2F
+        Block Maze (2 Keys required) - Square Crystal
+    B1
+        Invisible Floors Chest (2 Keys + Square) - Bow
+    2F
+        Shoot all the Eyes (2 Keys + Square) - Power Gem
+        Spike Traps (2 Keys + Square) - Shuffled Treasure
+    B1
+        Light all the Torches (2 Keys + Square) - Wisdom Gem
+    1F
+        Second Pols Voice Key (2 Keys + Square) - Small Key
+    2F
+        Map Block (3 Keys + Square) - Boss Key
+    3F
+        Behind the Stairs (3 Keys + Boss + Square) - Courage Gem
+    Boss
+        Crayk, Bane of Courage
+            +2:00 Sand of Hours
+            Spirit of Courage
+            Heart Container
+
+Spirit Island
+    Chest - Courage Gem
+    East Gauntlet - Power Gem
+    Courage Upgrade - Progressive Courage Upgrade
+    Courage Upgrade 2 - Progressive Courage Upgrade
+    Power Upgrade - Progressive Power Upgrade
+    Power Upgrade 2 - Progressive Power Upgrade
+    Wisdom Upgrade - Progressive Wisdom Upgrade
+    Wisdom Upgrade 2 - Progressive Wisdom Upgrade
+
+Isle of Gust
+    Wayfarer's Cave - Courage Gem
+    Cave
+        Miniblin Chest - Wisdom Gem
+        Kill all Miniblins - Treasure Map
+    Post-Cave Dig Spot - 100 Rupees
+    Far West Ledge Chest - Power Gem
+    Top-Left Dig Spot - 100 Rupees
+    Windmill Maze Chest - Treasure Map
+
+Temple of Wind (REORDER)
+    1F
+        Gold Chest - Boss Key
+    B1
+        Quad Blower Chest - Courage Gem
+        Bottom-right Chest - Shuffled Treasure
+        Ceiling Key Drop - Small Key
+    B2
+        Left Chest - Power Gem
+        Bombable wall - 100 Rupees (freestanding)
+        Top-Right Chest - Bomb Bag
+    Boss
+        Cyclok, Stirrer of Winds
+            +2:00 Sand of Hours
+            Spirit of Wisdom
+            Heart Container
+
+    Totals: 
+        1 Small Key (static?)
+        7 checks (including Spirit)
+        9 keysanity checks (including Spirit)
+
+
+Zauz's Island
+    Chest - Wisdom Gem
+    Dig Spot - Treasure Map
+    Sword Blade - Sword Blade
+
+Bannan Island
+    Mermaid - Fishing Rod
+    Cannon Minigame, one of the rewards - Progressive Bomb Bag
+    Cannon Minigame, 2500+ points - 20 Rupees
+    West Hook Island - Power Gem
+    East Hook Island Dual Chests - 100 Rupees
+    East Hook Island Dual Chests - Courage Gem
+    East Hook Island Dig Spot - Treasure Map
+    Dig Spot in Front of House - Treasure Map
+    Swordsman's Scroll - Swordsman's Scroll
+
+
+Whale Island
+    Dig Spot under the Eye - Treasure Map
+    Golden Frog - Cyclone Slate
+
+Ghost Ship
+    B1
+        East Chest - Triangle Crystal
+        South Chest - Shuffled Treasure
+    B2
+        Double Chests - Rupoor
+        Double Chests - 200 Rupees
+        Between Spikes - Round Crystal
+    B3
+        B3 Chest - 200 Rupees
+    Boss
+        Diabolical Cubus Sisters
+            Ghost Key
+            Heart Container
+    Totals
+        0 Small Keys
+        2 Crystals
+        6 items (counting Ghost Key)
+        8 keysanity items (counting Ghost Key)
+
+Goron Island
+    Kill the Yellow Zols - Treasure Map
+    Grapple Chest - Courage Gem
+    Goron Elder
+        First Question - 1 Rupee
+        Second Question - 5 Rupees
+        Third Question - 20 Rupees
+        Fourth Question - 20 Rupees
+        Fifth Question - 100 Rupees
+        Sixth Question - Wisdom Gem
+        After Beating Temple - 200 Rupees
+    Left Maze Chest - 100 Rupees
+    Center Maze Chest - Power Gem
+    Bombchu Maze Chest - Treasure Map
+
+Goron Temple
+    1F
+        Shoot the Eye - 20 Rupees
+    B1
+        Stand Together - Bombchu
+        Kill all the Enemies - Shuffled Treasure (Goron Amber)
+    B3
+        Miniblin Chest - 20 Rupees
+    B2
+        Kill the Sand Snakes - Shuffled Treasure (Goron Amber)
+        Crystal Switches Across the Sand - Boss Key
+    Boss
+        Dongorongo, Armored Lizard
+            +2:00 Sand of Hours
+            Heart Container
+            Crimsonine
+    Totals
+        0 Small Keys
+        7 checks (counting Metal)
+        8 keysanity checks (counting Metal)
+
+Harrow Island
+    2 Treasure Maps - After Temple of Ice
+    2 Treasure Maps - After NE Sea Map
+
+Dee Ess Island
+    Dig on Menu Button - Courage Gem0.
+    Thrilling Prize - Progressive Bombchu Bag
+    Consolation Prize - 100 Rupees
+
+Isle of the Dead
+    Rupoor Maze Chest 1 - Ship Part
+    Rupoor Maze Chest 2 - Treasure Map
+    Rupoor Maze Chest 3 - Courage Gem
+    Rupoor Maze Chest 4 - Ship Part
+    13 W, 7 N from King's Chin - Power Gem
+    On the King's Eye - Treasure Map
+    After Brant's Tomb - Regal Necklace
+
+Isle of Ruin
+    Doylan's Tomb - King's Key
+    Drained Chest, Left - Power Gem
+    Drained Chest, Right - 100 Rupees
+    A Rolling Stone - Wisdom Gem
+
+Mutoh's Temple
+    2F
+        Like Like Chest - Shuffled Treasure
+    3F
+        Chest - Hammer
+    B2
+        Hammer all the Switches - Courage Gem
+        On the Ledge - Small Key
+    B1
+        Center Chest (1 Key required) - 100 Rupees
+        Rolling Stones (1 Key required) - Small Key
+        Bring the Rock with You - (2 Keys required) - Boss Key
+    Boss
+        Eox, Ancient Stone Solider
+            +2:00 Sand of Hours
+            Heart Container
+            Aquanine
+
+
+Maze Island
+    Beginner (Requires Bow) - Wisdom Gem
+    Normal (Requires Bow) - Treasure Map
+    Expert (Requires Grappling Hook) - Heart Container
+    All Levels Completed - 300 Rupees
+    East Chest - Wisdom Gem
+
+
+Isle of Frost
+    Stand on the Peg - 20 Rupees
+    Left Grapple Chest - Wisdom Gem
+    Dobo's House Sign Dig Spot - 100 Rupees
+    Fofo's House Sign Dig Spot - 100 Rupees
+    Left of Estates Dig Spot - Treasure Map
+    Right of Estates Dig Spot - 300 Rupees
+    Anouki Estates Sign Dig Spot - 200 Rupees
+
+    Great Ice Field
+        Right Ledge - Power Gem
+        Right Cliff - 100 Rupees
+        Dual Chests - 20 Rupees
+        Dual Chests - 20 Rupees
+
+
+Temple of Ice
+    3F
+        Left of the Stairs - 100 Rupees
+        Far Left Chest - Wisdom Gem
+        Crystal Switch Small Key - Small Key
+    2F
+        2 Yooks (1 Key required) - Grappling Hook
+    B1
+        Grapple Chest (1 Key required) - 200 Rupees
+        Timed Ice Spikes (1 Key required) - Small Key
+        Behind Key Door (2 Keys required) - Wisdom Gem
+    B2
+        Bounce the Arrows (2 Keys required) - Small Key
+        1 Yook (3 Keys required) - 200 Rupees
+        Final Chest (3 Keys required) - Boss Key
+    Boss
+        Gleeok, Two-Headed Dragon
+            +2:00 Sand of Hours
+            Heart Container
+            Azurine
+    Totals
+        3 Small Keys
+        8 checks (counting Metal)
+        12 keysanity checks (counting Metal)
+

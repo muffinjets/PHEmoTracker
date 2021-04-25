@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Southwest Sea",
+        "chest_unopened_img": "images/chest.png",
+        "chest_opened_img": "images/chestOpen.png",
+        "color": "#00CC00",
+        "children": [
+            {
+                "name": "Mercay Island",
+                "map_locations": [
+                    {
+                        "map": "worldmap",
+                        "x": 188,
+                        "y": 248
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Oshus's Cave",
+                        "access_rules": [""],
+                        "item_count": 1,
+                        "capture_item": true
+                    },
+                    {
+                        "name": "Bonk the North Tree",
+                        "access_rules": [""],
+                        "item_count": 1,
+                        "capture_item": true
+                    },
+                    {
+                        "name": "Phantom Sword",
+                        "access_rules": [""],
+                        "item_count": 1,
+                        "capture_item": true
+                    },
+                ]
+            }
+        ]
+    }
+]

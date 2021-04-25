@@ -1,0 +1,385 @@
+[
+    {
+        "name": "Bombs",
+        "type": "progressive",
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/bombs.png",
+                "codes": "bombs"
+            },
+            {
+                "img": "images/items/bombs20.png",
+                "codes": "bombs20",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/bombs30.png",
+                "codes": "bombs30",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Bombchus",
+        "type": "progressive",
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/bombchu.png",
+                "codes": "bombchus"
+            },
+            {
+                "img": "images/items/bombchu20.png",
+                "codes": "bombchus20",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/bombchu30.png",
+                "codes": "bombchus30",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Boomerang",
+        "type": "toggle",
+        "img": "images/items/boomerang.png",
+        "codes": "boomerang"
+    },
+    {
+        "name": "Bow",
+        "type": "progressive",
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/bow.png",
+                "codes": "bow"
+            },
+            {
+                "img": "images/items/bow30.png",
+                "codes": "bow30",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/bow50.png",
+                "codes": "bow50",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Grappling Hook",
+        "type": "toggle",
+        "img": "images/items/grapplinghook.png",
+        "codes": "grapplinghook"
+    },
+    {
+        "name": "Hammer",
+        "type": "toggle",
+        "img": "images/items/hammer.png",
+        "codes": "hammer"
+    },
+    {
+        "name": "Sword",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/items/newsword.png",
+                "codes": "sword"
+            },
+            {
+                "img": "images/items/phantomsword.png",
+                "codes": "phantomsword",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Sword + Spirit of Courage's Blessing",
+        "type": "toggle_badged",
+        "base_item": "sword",
+        "img": "images/overlay_couragegem.png",
+        "codes": "sword_courage"
+    },
+    {
+        "name": "Shovel",
+        "type": "toggle",
+        "img": "images/items/shovel.png",
+        "codes": "shovel"
+    },
+    {
+        "name": "Shield",
+        "type": "toggle",
+        "img": "images/items/shield.png",
+        "codes": "shield"
+    },
+// Quest Items
+    {
+        "name": "Cyclone State",
+        "type": "toggle",
+        "img": "images/questitems/cycloneslate.png",
+        "codes": "cycloneslate"
+    },
+    {
+        "name": "Fishing Rod",
+        "type": "toggle",
+        "img": "images/questitems/fishingrod.png",
+        "codes": "fishingrod",
+        "loop": true
+    },
+    {
+        "name": "Fishing Rod + Big Catch Lure",
+        "type": "toggle_badged",
+        "base_item": "fishingrod",
+        "img": "images/overlay_bigcatchlure.png",
+        "codes": "fishingrod_bigcatch"
+    },
+    {
+        "name": "Salvage Arm",
+        "type": "toggle",
+        "img": "images/questitems/salvagearm.png",
+        "codes": "salvagearm"
+    },
+    {
+        "name": "Sun Key",
+        "type": "toggle",
+        "img": "images/questitems/sunkey.png",
+        "codes": "sunkey"
+    },
+    {
+        "name": "Ghost Key",
+        "type": "toggle",
+        "img": "images/questitems/ghostkey.png",
+        "codes": "ghostkey"
+    },
+    {
+        "name": "King's Key",
+        "type": "toggle",
+        "img": "images/questitems/kingskey.png",
+        "codes": "kingskey"
+    },
+    {
+        "name": "Regal Necklace",
+        "type": "toggle",
+        "img": "images/questitems/regalnecklace.png",
+        "codes": "regalnecklace"
+    },
+    {
+        "name": "Crimsonine",
+        "type": "toggle",
+        "img": "images/questitems/crimsonine.png",
+        "codes": "crimsonine"
+    },
+    {
+        "name": "Azurine",
+        "type": "toggle",
+        "img": "images/questitems/azurine.png",
+        "codes": "azurine"
+    },
+    {
+        "name": "Aquanine",
+        "type": "toggle",
+        "img": "images/questitems/aquanine.png",
+        "codes": "aquanine"
+    },
+    {
+        "name": "Sword Blade",
+        "type": "toggle",
+        "img": "images/questitems/swordblade.png",
+        "codes": "swordblade"
+    },
+    {
+        "name": "Phantom Hourglass",
+        "type": "toggle",
+        "img": "images/questitems/phantomhourglass.png",
+        "codes": "phantomhourglass"
+    },
+    {
+        "name": "Sand of Hours",
+        "type": "consumable",
+        "img": "images/questitems/sandofhours.png",
+        "codes": "sandofhours, minutes",
+        "max_quantity": 5
+    },
+    {
+        "name": "NW Map",
+        "type": "toggle",
+        "img": "images/maps/nwmap.png",
+        "codes": "nwmap"
+    },
+    {
+        "name": "SW Map",
+        "type": "toggle",
+        "img": "images/maps/swmap.png",
+        "codes": "swmap"
+    },
+    {
+        "name": "NE Map",
+        "type": "toggle",
+        "img": "images/maps/nemap.png",
+        "codes": "nemap"
+    },
+    {
+        "name": "SE Map",
+        "type": "toggle",
+        "img": "images/maps/semap.png",
+        "codes": "semap"
+    },
+    {
+        "name": "Power Gem",
+        "type": "consumable",
+        "img": "images/questitems/powergem.png",
+        "codes": "powergem",
+        "max_quantity": 20
+    },
+    {
+        "name": "Wisdom Gem",
+        "type": "consumable",
+        "img": "images/questitems/wisdomgem.png",
+        "codes": "wisdomgem",
+        "max_quantity": 20
+    },
+    {
+        "name": "Courage Gem",
+        "type": "consumable",
+        "img": "images/questitems/couragegem.png",
+        "codes": "couragegem",
+        "max_quantity": 20
+    },
+    {
+        "name": "Spirit of Power",
+        "type": "toggle",
+        "img": "images/questitems/spiritofpower.png",
+        "codes": "spiritofpower"
+    },
+    {
+        "name": "Spirit of Wisdom",
+        "type": "toggle",
+        "img": "images/questitems/spiritofwisdom.png",
+        "codes": "spiritofwisdom"
+    },
+    {
+        "name": "Spirit of Courage",
+        "type": "toggle",
+        "img": "images/questitems/spiritofcourage.png",
+        "codes": "spiritofcourage"
+    },
+    // {
+    //     "name": "Spirit of Power",
+    //     "type": "progressive",
+    //     "stages": [
+    //         {
+    //             "img": "images/questitems/spiritofpower.png",
+    //             "codes": "spiritofpower"
+    //         },
+    //         {
+    //             "img": "images/questitems/spiritofpower1.png",
+    //             "codes": "spiritofpower1",
+    //             "inherit_codes": true
+    //         },
+    //         {
+    //             "img": "images/questitems/spiritofpower2.png",
+    //             "codes": "spiritofpower2",
+    //             "inherit_codes": true
+    //         }
+    //     ]
+    // },
+    // {
+    //     "name": "Spirit of Wisdom",
+    //     "type": "progressive",
+    //     "stages": [
+    //         {
+    //             "img": "images/questitems/spiritofwisdom.png",
+    //             "codes": "spiritofwisdom"
+    //         },
+    //         {
+    //             "img": "images/questitems/spiritofwisdom1.png",
+    //             "codes": "spiritofwisdom1",
+    //             "inherit_codes": true
+    //         },
+    //         {
+    //             "img": "images/questitems/spiritofwisdom2.png",
+    //             "codes": "spiritofwisdom2",
+    //             "inherit_codes": true
+    //         }
+    //     ]
+    // },
+    // {
+    //     "name": "Spirit of Courage",
+    //     "type": "progressive",
+    //     "stages": [
+    //         {
+    //             "img": "images/questitems/spiritofcourage.png",
+    //             "codes": "spiritofcourage"
+    //         },
+    //         {
+    //             "img": "images/questitems/spiritofcourage1.png",
+    //             "codes": "spiritofcourage1",
+    //             "inherit_codes": true
+    //         },
+    //         {
+    //             "img": "images/questitems/spiritofcourage2.png",
+    //             "codes": "spiritofcourage2",
+    //             "inherit_codes": true
+    //         }
+    //     ]
+    // },
+    {
+        "name": "Treasure Charts",
+        "type": "consumable",
+        "img": "images/questitems/treasurechart.png",
+        "codes": "treasurechart, treasurecharts, charts",
+        "max_quantity": 31
+    },
+    {
+        "name": "Jolene's Letter",
+        "type": "toggle",
+        "img": "images/questitems/jolenesletter.png",
+        "codes": "jolene, letter, jolenesletter"
+    },
+    //Keysanity
+    {
+        "name": "Temple of the Ocean King Small Keys",
+        "type": "consumable",
+        "img": "images/smallkey.png",
+        "codes": "oceankingsmallkey",
+        "max_quantity": 6
+    },
+    {
+        "name": "Temple of Fire Small Keys",
+        "type": "consumable",
+        "img": "images/smallkey.png",
+        "codes": "firesmallkey",
+        "max_quantity": 3
+    },
+    {
+        "name": "Temple of Courage Small Keys",
+        "type": "consumable",
+        "img": "images/smallkey.png",
+        "codes": "couragesmallkey",
+        "max_quantity": 3
+    },
+    {
+        "name": "Temple of Wind Small Key",
+        "type": "toggle",
+        "img": "images/smallkey.png",
+        "codes": "windsmallkey"
+    },
+    {
+        "name": "Temple of Ice Small Keys",
+        "type": "consumable",
+        "img": "images/smallkey.png",
+        "codes": "icesmallkey",
+        "max_quantity": 3
+    },
+    {
+        "name": "Mutoh's Temple Small Keys",
+        "type": "consumable",
+        "img": "images/smallkey.png",
+        "codes": "mutohsmallkey",
+        "max_quantity": 2
+    }
+]

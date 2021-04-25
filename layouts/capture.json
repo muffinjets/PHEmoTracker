@@ -1,0 +1,104 @@
+{
+    "tracker_capture_item": {
+        "type": "array",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "4,4,4,4",
+                "rows": [
+                    ["boomerang", "bombs", "bow", "bombchus", "grapplinghook", "hammer", "shovel"]
+                ]
+            },
+            {
+                "type": "canvas",
+                "v_alignment": "top",
+                "height": 80,
+                "width": 278,
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "phantomhourglass",
+                        "width": 55,
+                        "height": 80,
+                        "canvas_top": 0,
+                        "canvas_left": 0
+                    },
+                    {
+                        "type": "item",
+                        "item": "sword",
+                        "width": 48,
+                        "height": 48,
+                        "canvas_left": 60,
+                        "canvas_top": 10
+                    },
+                    {
+                        "type": "item",
+                        "item": "shield",
+                        "width": 48,
+                        "height": 48,
+                        "canvas_left": 110,
+                        "canvas_top": 10
+                    },
+                    {
+                        "type": "item",
+                        "item": "spiritofcourage",
+                        "width": 30,
+                        "height": 30,
+                        "canvas_left": 175,
+                        "canvas_top": 13
+                    },
+                    {
+                        "type": "item",
+                        "item": "spiritofpower",
+                        "width": 30,
+                        "height": 30,
+                        "canvas_left": 160,
+                        "canvas_top": 35
+                    },
+                    {
+                        "type": "item",
+                        "item": "spiritofwisdom",
+                        "width": 30,
+                        "height": 30,
+                        "canvas_left": 190,
+                        "canvas_top": 33
+                    },
+                    {
+                        "type": "item",
+                        "item": "couragegem",
+                        "width": 30,
+                        "height": 30,
+                        "canvas_left": 240,
+                        "canvas_top": 8
+                    },
+                    {
+                        "type": "item",
+                        "item": "powergem",
+                        "width": 30,
+                        "height": 30,
+                        "canvas_left": 225,
+                        "canvas_top": 30
+                    },
+                    {
+                        "type": "item",
+                        "item": "wisdomgem",
+                        "width": 30,
+                        "height": 30,
+                        "canvas_left": 250,
+                        "canvas_top": 30
+                    }
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_margin": "4,4,4,4",
+                "rows": [
+                    ["cycloneslate", "fishingrod_bigcatch", "salvagearm", "treasurecharts"],
+                    ["sandofhours","sunkey", "ghostkey", "kingskey", "regalnecklace"]
+                ]
+            }
+        ]
+    }
+}

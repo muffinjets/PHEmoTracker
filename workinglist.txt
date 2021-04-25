@@ -1,0 +1,16 @@
+Wisdom Gem on itemgrid needs to be moved to show counter better
+
+Trading Sequence
+    Hero's New Clothes
+    Telescope
+    Guard Notebook
+    Wood Heart
+    Swordsman's Scroll
+
+Add the cannon to the itemgrid
+Add the "fake" spirt of courage to item grid?
+Improve spirit of courage image
+Add Crimsonine, Aquanine and Azurine to item grid
+Add Sea Charts
+Add Jolene's Letter
+Add Sword Blade
